@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.25)  27 FEB 2023 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.25)  27 FEB 2023 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/stefa/OneDrive - UPV/Documentos/Firmware-H8/FDD/SECTION 11/main.tex"
-(c:/Users/stefa/OneDrive - UPV/Documentos/Firmware-H8/FDD/SECTION 11/main.tex
+**"c:/Users/stefa/OneDrive - UPV/Documentos/Firmware-H8/FDD/FDD-PRUEBA/SECTION 11/main.tex"
+(c:/Users/stefa/OneDrive - UPV/Documentos/Firmware-H8/FDD/FDD-PRUEBA/SECTION 11/main.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\stefa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -48,14 +48,14 @@ LaTeX Font Info:    ... okay on input line 2.
 {C:/Users/stefa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux) ) 
 Here is how much of TeX's memory you used:
  427 strings out of 475385
- 8628 string characters out of 2776907
+ 8705 string characters out of 2776907
  347620 words of memory out of 3000000
  21888 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,38p,209b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 34i,5n,38p,220b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/stefa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on main.pdf (1 page, 11351 bytes).
+Output written on main.pdf (1 page, 13136 bytes).
 PDF statistics:
  11 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
